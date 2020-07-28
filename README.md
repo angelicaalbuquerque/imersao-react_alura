@@ -8,6 +8,7 @@
 <p align="center">
 <img alt="badge typescript" src=".github\badge-typescript.svg">
 <img alt="badge react" src=".github\badge-react.svg">
+<img alt="badge NodeJS" src=".github\node.svg">
 <img alt="badge vscode" src=".github\badge-visual_studio_code.svg">
 <img alt="badge prettier" src=".github\prettier-2.svg">
 </p>
@@ -93,6 +94,7 @@ Durante a semana de Imersão React, desenvolvemos a AluraFlix: uma aplicação w
 - [CSS](https://www.w3schools.com/css/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://pt-br.reactjs.org/)
+- [NodeJS](https://nodejs.org/pt-br/)
 - [Prettier](https://prettier.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
