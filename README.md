@@ -3,6 +3,7 @@
 </div>
 
 <h2 align="center">Imersão CSS | <img alt="badge alura" align="center" src=".github\alura.svg"></h2>
+<h3 align="center">🚧 Em andamento 🚧</h3>
 
 <p align="center">
 <img alt="badge typescript" src=".github\badge-typescript.svg">
@@ -80,7 +81,7 @@ Foram 5 aulas inéditas, explorando o React de maneira moderna e eficiente, mini
 
 ## 💻 Projeto
 
-Em breve.
+Durante a semana de Imersão React, desenvolvemos a AluraFlix: uma aplicação web inspirada na interface da Netflix, com um visual moderno, onde é possível inserir sua lista de vídeos de programação, filmes, games e séries favoritas, por exemplo.
 
 </p>
 
