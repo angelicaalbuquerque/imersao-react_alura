@@ -1,3 +1,8 @@
+# Lives da Imersão React
+
+- [Front-end do Netflix, iFood e Spotify](https://www.youtube.com/watch?v=Dcn-tVmSxyU)
+- [TypeScript no nosso projeto com a Microsoft](https://www.youtube.com/watch?v=SpWFDTvgS9k)
+
 # Aula 1: Animações básicas e trilha sonora
 
 [_Assistir_](https://www.youtube.com/watch?v=DQ3A2PTpDBU)
