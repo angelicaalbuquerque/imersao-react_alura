@@ -49,3 +49,9 @@ Lembre de postar o resultado final da sua AluraFlix com a hashtag #ImersaoReact 
 - [Visual Studio IntelliCode - plugin do VSCode que ajuda no autocomplete](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [Como criar um projeto com React Native](https://www.youtube.com/watch?v=k1vdmXDgMJI&list=PLTcmLKdIkOWkkBSilAr6iqdnSDXdiiyIq)
 - [O que todo projeto deveria ter?](https://www.youtube.com/watch?v=yMRSDdifGW8)
+
+### Observações:
+
+props => { className: "O que alguém passar", href: "/" }
+
+As {} são utilizadas para colocar o JS dentro do HTML, que está dentro do JS. Usadas sempre para valores dinâmicos.
