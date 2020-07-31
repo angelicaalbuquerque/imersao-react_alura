@@ -56,7 +56,7 @@ props => { className: "O que alguém passar", href: "/" }
 
 As {} são utilizadas para colocar o JS dentro do HTML, que está dentro do JS. Usadas sempre para valores dinâmicos.
 
-# Aula 2: React Components e AluraFlix
+# Aula 2: Roteamento e state
 
 [_Assistir_](https://www.youtube.com/watch?v=B2GNlpRWhcw)
 
@@ -104,3 +104,14 @@ E assista aos [vídeos extras que sobre estilização](https://www.youtube.com/w
 ### Como compartilhar sua própria AluraFlix
 
 Você pode usar esse [plugin do Chrome](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn) para gravar o seu site em ação, scrollar e mostrar efeitos especiais. Ou até mesmo um câmera de celular. Pode ser só um screenshot! Poste no seu Instagram, Linkedin, Twitter ou Facebook e não esqueça de marcar #ImersaoReact e @aluraonline para que a gente deixe um comentário e, quem sabe, você apareça nos extras das aulas!
+
+# Aula 3: Formulários reutilizáveis e mais components
+
+[_Assistir_](https://www.youtube.com/watch?v=ybnbwXSUCrE)
+
+Nessa aula, nós vamos entender como trabalhar com elementos dinâmicos na tela da nossa aplicação.
+
+### Links importantes para acompanhar a aula:
+
+- [Categoria.js e formulário](https://gist.github.com/omariosouto/e04dd020257ff18fdff307ae2b26e00f)
+- [Código completo da aula 3](https://github.com/omariosouto/lucasflix/tree/live/src)
