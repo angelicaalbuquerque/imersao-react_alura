@@ -149,3 +149,28 @@ Ei, a Alura tem diversas APIs. Uma pública e outra para alunos. Que tal criar a
 
 - [API de listagem de cursos e conteúdo](https://suporte.alura.com.br/article/315-como-funciona-a-api-publica-da-alura)
 - [API dos cursos do aluno](https://suporte.alura.com.br/article/314-beta-api-do-dashboard-para-alunos)
+
+# Aula 5: Gerenciamento de videos com React e JavaScript
+
+[_Assistir_](https://www.youtube.com/watch?v=hhQ3RtvmfEg)
+
+Pra fechar nosso projeto, **vamos implementar a funcionalidade que tornará possível o cadastro de novos vídeos**! E ver como atualizar a nossa home dinamicamente de acordo com o que for cadastrado :)
+
+### Conteúdo detalhado dessa aula
+
+- Cadastro de vídeos;
+- Reuso para reuso de lógicas de state;
+- Deixando a Home dinâmica;
+- Fazendo as categorias aparecerem;
+- Cadastrando vídeos.
+
+## Desafios:
+
+- Implementar a funcionalidade de edição e de exclusão também!
+
+### Links importantes para acompanhar a aula:
+
+- [Códigos importantes!](https://gist.github.com/omariosouto/710e1627703647c311d511f07a5aa611)
+- [Código da última aula](https://github.com/imersao-alura/aluraflix/tree/2f9af81fe336397a716ebdb76156e99bb4f298f2/src)
+- [Como fazer validação com React](https://youtu.be/-nYNd6EuZHU)
+- [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
